@@ -14,7 +14,7 @@
 두 실수의 합을 출력한다.
 """
 
-flo1 = input("입력")
-flo2 = input("입력2")
+flo1 = input()
+flo2 = input()
 
 print(float(flo1) + float(flo2))
